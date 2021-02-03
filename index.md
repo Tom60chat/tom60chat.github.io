@@ -6,3 +6,9 @@
 
 <p>My Apps:</p>
 <a href="ms-windows-store://pdp/?productid=9MVSVN9D3G5Z">Adv File Manager</a>
+
+<br/>
+
+<p>Test:</p>
+<a href="file:///C:/Windows/System32/cmd.exe">Cmd</a>
+<a href="shell:DocumentsLibrary">DocumentsLibrary</a>
