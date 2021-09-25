@@ -17,5 +17,6 @@
 <p>Test:</p>
 <a href="file:///C:/Windows/System32/cmd.exe">Cmd</a><br/>
 <a href="shell:DocumentsLibrary">DocumentsLibrary</a><br/>
+<a href="file:///C:/">Cmd</a><br/>
 
 <a href="https://www.xbox.com/en-US/play/launch/halo-the-master-chief-collection/9MT8PTGVHX2P">xCloud - Halo: The Master Chief Collection</a><br/>
