@@ -11,6 +11,7 @@
 
 <p>My Apps:</p>
 <a href="ms-windows-store://pdp/?productid=9MVSVN9D3G5Z">Adv File Manager</a><br/>
+<a href="ms-windows-store://pdp/?productid=9NBNJPSXFSQB">Adv File Manager [Full Trust]</a><br/>
 
 <br/>
 
